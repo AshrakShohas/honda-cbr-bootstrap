@@ -1,0 +1,66 @@
+* {
+    font-family: poppins;
+  }
+  .mt-100 {
+    margin-top: 100px;
+  }
+  
+  header {
+    background-color: #264653;
+  }
+  ul.navbar-nav li {
+    margin-left: 30px;
+  }
+  .login {
+    background-color: #e76f51;
+  }
+  
+  .feture img.grayscale {
+    filter: grayscale(90%);
+  }
+  .button {
+    border: 2px solid #e76f51;
+    color: black;
+    transition: 0.4s;
+  }
+  .button:hover {
+    background-color: #e76f51;
+    color: white;
+  }
+  
+  
+  
+  .rating i {
+    color: #e76f51;
+  }
+  
+  footer {
+    background-color: #264653;
+  }
+  footer ul li {
+    color: white;
+    padding-right: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  footer ul li:hover {
+    color: #e76f51;
+  }
+  
+  
+  
+  .search {
+    background-image: linear-gradient(#264653, #14303b);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .happy_clients img{
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+
+
+
+  }
